@@ -7,3 +7,6 @@ This project is focusing on exercising flex, margins, and paddings in front end 
 </p>
 
 <p  align="center">
+
+
+![showcase](./img/showcase_project.png)
