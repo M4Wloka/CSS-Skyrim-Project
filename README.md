@@ -9,4 +9,4 @@ This project is focusing on exercising flex, margins, and paddings in front end 
 <p  align="center">
 
 
-![showcase](./img/showcase_project.png)
+![showcase](./Skyrim/img/showcase_project.png)
